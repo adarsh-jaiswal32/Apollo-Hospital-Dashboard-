@@ -1,6 +1,6 @@
 # 🏥 Apollo Hospitals Leads Flow Dashboard
 
-![Dashboard Preview](apollo%20d.gif)
+![Dashboard Preview]([apollo%20d.gif](https://github.com/adarsh-jaiswal32/Apollo-Hospital-Dashboard-/blob/main/apollo20d.gif))
 
 ---
 
